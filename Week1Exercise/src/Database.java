@@ -20,7 +20,7 @@ public class Database {
 	
 	public static void main(String[] args) {
 		Database demo = new Database();
-		demo.add(new Student("l630003044", 709, "CST", "Guangzhou"));
+		demo.add(new Student("l630003044", 709, "CST", "Guangzhou", "male"));
 		demo.add(new Teacher("V3 40X", "456456456", 56743));
 		demo.add(new Security("28347"));
 		
